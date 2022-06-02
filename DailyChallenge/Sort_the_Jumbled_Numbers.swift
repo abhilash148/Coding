@@ -23,4 +23,8 @@ class SortTheJumbledNumbers {
         }
         return outputDict.sorted { $0.value < $1.value }.compactMap { $0.key }
     }
+    
+    func printAnswer(_ mapping: [Int], _ nums: [Int]) {
+        print(sortJumbled(mapping, nums))
+    }
 }
