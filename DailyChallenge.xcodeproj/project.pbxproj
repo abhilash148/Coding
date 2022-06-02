@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D47E6AD2849378900651518 /* Sort_the_Jumbled_Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D47E6AC2849378900651518 /* Sort_the_Jumbled_Numbers.swift */; };
 		8D6A7F1C28441A5600C98D87 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6A7F1B28441A5600C98D87 /* main.swift */; };
 		8D6A7F2328441AF700C98D87 /* Shortest Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6A7F2228441AF700C98D87 /* Shortest Palindrome.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D47E6AC2849378900651518 /* Sort_the_Jumbled_Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sort_the_Jumbled_Numbers.swift; sourceTree = "<group>"; };
 		8D6A7F1828441A5600C98D87 /* DailyChallenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DailyChallenge; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D6A7F1B28441A5600C98D87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8D6A7F2228441AF700C98D87 /* Shortest Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Palindrome.swift"; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				8D6A7F1B28441A5600C98D87 /* main.swift */,
 				8D6A7F2228441AF700C98D87 /* Shortest Palindrome.swift */,
+				8D47E6AC2849378900651518 /* Sort_the_Jumbled_Numbers.swift */,
 			);
 			path = DailyChallenge;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D47E6AD2849378900651518 /* Sort_the_Jumbled_Numbers.swift in Sources */,
 				8D6A7F1C28441A5600C98D87 /* main.swift in Sources */,
 				8D6A7F2328441AF700C98D87 /* Shortest Palindrome.swift in Sources */,
 			);

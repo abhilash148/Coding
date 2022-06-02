@@ -23,3 +23,10 @@ var object = Solution()
 var output = object.shortestPalindrome(input)
 object.printAnswer(output)
 
+// MARK: Sort the Jumbled Numbers
+
+let mapping = [8,9,4,0,2,1,3,5,7,6]
+let nums = [991,338,38]
+var stjm = SortTheJumbledNumbers()
+
+
