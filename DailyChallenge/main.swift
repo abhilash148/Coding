@@ -42,5 +42,18 @@ let nums = [991,338,38]
 var stjm = SortTheJumbledNumbers()
 stjm.printAnswer(mapping, nums)
 
+// MARK: Rearrange words in a sentence
 
+// input1 = "Leetcode is cool"
+// expected output = "Is cool leetcode"
+
+// input2 = "Keep calm and code on"
+// expected output = "On and keep calm code"
+
+// input3 = "To be or not to be"
+// expected output = "To be or to be not"
+
+let text = "Leetcode is cool"
+var rwis = RearrangeWordsInSentence()
+rwis.printAnswer(text)
 
