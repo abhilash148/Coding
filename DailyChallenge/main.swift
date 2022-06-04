@@ -57,3 +57,17 @@ let text = "Leetcode is cool"
 var rwis = RearrangeWordsInSentence()
 rwis.printAnswer(text)
 
+
+// MARK: Smallest Index With Equal Value
+
+// input1 = [0,1,2]
+// expected output = 0
+
+// input2 = [4,3,2,1]
+// expected output = 2
+
+// input3 = [1,2,3,4,5,6,7,8,9,0]
+// expected output = -1
+
+var siwev = SmallestIndexWithEqualValue()
+siwev.printAnswer([4,3,2,1])
