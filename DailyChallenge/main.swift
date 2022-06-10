@@ -71,3 +71,17 @@ rwis.printAnswer(text)
 
 var siwev = SmallestIndexWithEqualValue()
 siwev.printAnswer([4,3,2,1])
+
+// MARK: Number of steps to reduce a number in Binary Representation to One
+
+// input1 = "1101"
+// expected output = 6
+
+// input2 = "10"
+// expected output = 1
+
+// input3 = "1"
+// expected output = 0
+
+var rnbro = ReduceNumberBinaryRepresentationOne()
+rnbro.printAnswer("1101")
