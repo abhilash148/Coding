@@ -85,3 +85,14 @@ siwev.printAnswer([4,3,2,1])
 
 var rnbro = ReduceNumberBinaryRepresentationOne()
 rnbro.printAnswer("1101")
+
+// MARK: Decode XORed Permutation
+
+// input1 = [3,1]
+// expected output = [1,2,3]
+
+// input2 = [6,5,4,6]
+// expected output = [2,4,1,5,3]
+
+var dxp = DecodeXORedPermutation()
+dxp.printAnswer([3,1])
