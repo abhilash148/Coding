@@ -96,3 +96,20 @@ rnbro.printAnswer("1101")
 
 var dxp = DecodeXORedPermutation()
 dxp.printAnswer([3,1])
+
+// MARK: License Key Formatting
+
+// input1 = "5F3Z-2e-9-w"
+// k = 4
+// Expected output = "5F3Z-2E9W"
+
+// input2 = "2-5g-3-J"
+// k = 2
+// Expected output = "2-5G-3J"
+
+// input3 = "2-4A0r7-4k"
+// k = 4
+// Expected output = "24A0-R74K"
+
+var lkf = LicenseKeyFormatting()
+lkf.printResult("5F3Z-2e-9-w", 4)
