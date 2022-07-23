@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D350BCF288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D350BCE288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift */; };
 		8D47E6AD2849378900651518 /* Sort_the_Jumbled_Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D47E6AC2849378900651518 /* Sort_the_Jumbled_Numbers.swift */; };
 		8D47E6AF284A2F8F00651518 /* Rearrange_words_in_sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D47E6AE284A2F8F00651518 /* Rearrange_words_in_sentence.swift */; };
 		8D4AF2C32889C09F00FC5896 /* Decode_XORed_Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4AF2C22889C09F00FC5896 /* Decode_XORed_Permutation.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D350BCE288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Min_Cost_Climbing_Stairs.swift; sourceTree = "<group>"; };
 		8D47E6AC2849378900651518 /* Sort_the_Jumbled_Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sort_the_Jumbled_Numbers.swift; sourceTree = "<group>"; };
 		8D47E6AE284A2F8F00651518 /* Rearrange_words_in_sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rearrange_words_in_sentence.swift; sourceTree = "<group>"; };
 		8D4AF2C22889C09F00FC5896 /* Decode_XORed_Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decode_XORed_Permutation.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				8DBF7BA72853D35B00A721CF /* Reduce_Number_BinaryRep_One.swift */,
 				8D4AF2C22889C09F00FC5896 /* Decode_XORed_Permutation.swift */,
 				8D4AF2C4288AD9B900FC5896 /* License_Key_Formatting.swift */,
+				8D350BCE288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift */,
 			);
 			path = DailyChallenge;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				8D47E6AD2849378900651518 /* Sort_the_Jumbled_Numbers.swift in Sources */,
 				8D47E6AF284A2F8F00651518 /* Rearrange_words_in_sentence.swift in Sources */,
+				8D350BCF288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift in Sources */,
 				8D6A7F1C28441A5600C98D87 /* main.swift in Sources */,
 				8D6A7F2328441AF700C98D87 /* Shortest Palindrome.swift in Sources */,
 				8D4AF2C5288AD9B900FC5896 /* License_Key_Formatting.swift in Sources */,

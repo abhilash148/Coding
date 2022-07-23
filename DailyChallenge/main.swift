@@ -113,3 +113,15 @@ dxp.printAnswer([3,1])
 
 var lkf = LicenseKeyFormatting()
 lkf.printResult("5F3Z-2e-9-w", 4)
+
+// MARK: Min Cost Climbing Stairs
+
+// input1 = [10,15,20]
+// Expected output = 15
+
+// input2 = [1,100,1,1,1,100,1,1,100,1]
+// Expected output = 6
+
+var mccs = MinCostClimbingStairs()
+mccs.printResult([10,15,20])
+
