@@ -16,6 +16,7 @@
 		8D6A7F2328441AF700C98D87 /* Shortest Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6A7F2228441AF700C98D87 /* Shortest Palindrome.swift */; };
 		8DABDE54284B329500B42ECD /* Smallest_Index_With_Equal_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DABDE53284B329500B42ECD /* Smallest_Index_With_Equal_Value.swift */; };
 		8DBF7BA82853D35B00A721CF /* Reduce_Number_BinaryRep_One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DBF7BA72853D35B00A721CF /* Reduce_Number_BinaryRep_One.swift */; };
+		8DC5D089288DABEE006382AE /* Bottom_Left_Tree_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC5D088288DABEE006382AE /* Bottom_Left_Tree_Value.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		8D6A7F2228441AF700C98D87 /* Shortest Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Palindrome.swift"; sourceTree = "<group>"; };
 		8DABDE53284B329500B42ECD /* Smallest_Index_With_Equal_Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smallest_Index_With_Equal_Value.swift; sourceTree = "<group>"; };
 		8DBF7BA72853D35B00A721CF /* Reduce_Number_BinaryRep_One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reduce_Number_BinaryRep_One.swift; sourceTree = "<group>"; };
+		8DC5D088288DABEE006382AE /* Bottom_Left_Tree_Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bottom_Left_Tree_Value.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				8D4AF2C22889C09F00FC5896 /* Decode_XORed_Permutation.swift */,
 				8D4AF2C4288AD9B900FC5896 /* License_Key_Formatting.swift */,
 				8D350BCE288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift */,
+				8DC5D088288DABEE006382AE /* Bottom_Left_Tree_Value.swift */,
 			);
 			path = DailyChallenge;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				8D47E6AD2849378900651518 /* Sort_the_Jumbled_Numbers.swift in Sources */,
 				8D47E6AF284A2F8F00651518 /* Rearrange_words_in_sentence.swift in Sources */,
 				8D350BCF288C7093004BD60B /* Min_Cost_Climbing_Stairs.swift in Sources */,
+				8DC5D089288DABEE006382AE /* Bottom_Left_Tree_Value.swift in Sources */,
 				8D6A7F1C28441A5600C98D87 /* main.swift in Sources */,
 				8D6A7F2328441AF700C98D87 /* Shortest Palindrome.swift in Sources */,
 				8D4AF2C5288AD9B900FC5896 /* License_Key_Formatting.swift in Sources */,

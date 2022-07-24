@@ -125,3 +125,31 @@ lkf.printResult("5F3Z-2e-9-w", 4)
 var mccs = MinCostClimbingStairs()
 mccs.printResult([10,15,20])
 
+// MARK: Find Bottom Left Tree Value
+
+// input1 = [2,1,3]
+// Expected output = 1
+
+// input2 = [1,2,3,4,nil,5,6,nil,nil,7]
+// Expected output = 7
+
+// input3 = [1, nil, 2]
+// Expected output = 2
+
+
+var node1 = TreeNode(1)
+var node2 = TreeNode(2)
+var node3 = TreeNode(3)
+var node4 = TreeNode(4)
+var node5 = TreeNode(5)
+var node6 = TreeNode(6)
+var node7 = TreeNode(7)
+node1.right = node3
+node1.left = node2
+node2.left = node4
+node3.left = node5
+node3.right = node6
+node5.left = node7
+
+var bltv = BottomLeftTreeValue()
+bltv.printResult(node1)
